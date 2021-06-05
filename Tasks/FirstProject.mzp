@@ -1,0 +1,22 @@
+{
+    "openFiles": [
+        "Introduction/loan.mzn",
+        "Introduction/enum_sample.mzn",
+        "Introduction/Army_hiring.mzn",
+        "Introduction/armyd.mzn",
+        "Introduction/count.mzn",
+        "Introduction/loan.dzn"
+    ],
+    "openTab": 3,
+    "projectFiles": [
+        "Introduction/Army_hiring.mzn",
+        "Introduction/armyd.mzn",
+        "Introduction/count.mzn",
+        "Introduction/enum_sample.mzn",
+        "Introduction/loan.dzn",
+        "Introduction/loan.mzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}
